@@ -1,7 +1,7 @@
 {
     "LatestLoaderBinary": "https://raw.githubusercontent.com/yvngxenvy/Logical-Endpoint/main/Binaries/LogicalLoader.exe",
     "Versions": {
-        "DLL": "3.0.3",
+        "DLL": "3.1.0",
         "Loader": "6"
     }
 }
