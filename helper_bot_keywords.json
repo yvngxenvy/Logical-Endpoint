@@ -1,18 +1,22 @@
 [
   {
-    "keywords": ["crashing"],
-    "response": "<#1225194275113930772>"
+    "keywords": ["crashing", "update", "fixed"],
+    "response": "The mod is not currently updated, you must wait for envy to update it. The current ETA is this week (Sunday 10:00 PST), yet this could change at any time."
   },
   {
     "keywords": ["rat", "virus", "scam"],
-    "response": "<#1322801587269275659>"
+    "response": "If you think the mod is a virus/scam, please visit <#1322801587269275659>. Additionally, if you still think it is a virus or scam, feel free to leave this discord server or terminate your use of the mod."
   },
   {
     "keywords": ["get mod"],
-    "response": "<#1177428333122814082>"
+    "response": "To get the mod, please visit <#1177428333122814082>."
   },
   {
-    "keywords": ["menu", "bind"],
-    "response": "F3 for Logical Menu & F8 for Logical Console"
+    "keywords": ["open", "bind"],
+    "response": "To open the menu, press F3. To open the console, press F8."
+  },
+  {
+    "keywords": ["activate", "premium"],
+    "response": "To activate premium, please visit <#1292347614259580939>."
   }
 ]
