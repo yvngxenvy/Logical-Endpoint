@@ -1,22 +1,44 @@
 [
   {
-    "keywords": ["crash", "update", "fixed"],
+    "keywords": [
+      "crash",
+      "update",
+      "fixed"
+    ],
     "response": "The mod is not currently updated, you must wait for envy to update it. The current ETA is this week (Sunday 10:00 PST), yet this could change at any time."
   },
   {
-    "keywords": ["rat", "virus", "scam"],
+    "keywords": [
+      "rat",
+      "virus",
+      "scam"
+    ],
     "response": "If you think the mod is a virus/scam, please visit <#1322801587269275659>. Additionally, if you still think it is a virus or scam, feel free to leave this discord server or terminate your use of the mod."
   },
   {
-    "keywords": ["get mod"],
+    "keywords": [
+      "get mod"
+    ],
     "response": "To get the mod, please visit <#1177428333122814082>."
   },
   {
-    "keywords": ["open", "bind"],
+    "keywords": [
+      "open",
+      "bind"
+    ],
     "response": "To open the menu, press F3. To open the console, press F8."
   },
   {
-    "keywords": ["activate", "premium"],
+    "keywords": [
+      "activate",
+      "premium"
+    ],
     "response": "To activate premium, please visit <#1292347614259580939>."
+  },
+  {
+    "keywords": [
+      "work in game"
+    ],
+    "response": "With premium, the items and titles will show for your client only (clientside). This means the items will not show to other players."
   }
 ]
