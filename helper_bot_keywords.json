@@ -31,9 +31,12 @@
   {
     "keywords": [
       "activate",
-      "premium"
+      "premium",
+      "purchase",
+      "buy the mod",
+      "buy mod"
     ],
-    "response": "To activate premium, please visit <#1292347614259580939>."
+    "response": "- To activate premium, go to <#1292347614259580939>\n- To see the premium features, go to <#1213331614499602455>\n- To see which payment methods are available to buy logical premium with, check <#1318756175373664336>"
   },
   {
     "keywords": [
