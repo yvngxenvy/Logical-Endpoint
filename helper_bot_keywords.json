@@ -24,7 +24,10 @@
   {
     "keywords": [
       "open",
-      "bind"
+      "bind",
+      "menu key",
+      "console key",
+      "window key"
     ],
     "response": "To open the menu, press F3. To open the console, press F8."
   },
